@@ -310,6 +310,9 @@ body {
 .team-member-list-link:focus {
   background-color: #404bbf;
 }
+.team-member-list-icon {
+  fill: #f4f4fd;
+}
 /* portfolio */
 .portfolio {
   background-color: #fff;
@@ -402,7 +405,7 @@ align-items: baseline;
 
 .page-footer-container {
   padding-left: 155px;
-  padding-right: 120px;
+  margin-right: 120px;
 }
 
 .logo-footer {
@@ -455,4 +458,7 @@ align-items: baseline;
 .social-list-link:hover,
 .social-list-link:focus {
   background-color: #31d0aa;
+}
+.social-list-icon{
+  fill: #f4f4fd;
 }
